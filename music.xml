@@ -150,6 +150,9 @@ Samu Ferragut, Javi Barrientos-->
             <duration>
             4.13
             </duration>
+            <mediaType>
+            1
+            </mediaType>
         </track>
         <track id="2">
             <name>
@@ -161,6 +164,9 @@ Samu Ferragut, Javi Barrientos-->
             <duration>
             3.37
             </duration>
+            <mediaType>
+            1
+            </mediaType>
         </track>
         <track id="3">
             <name>
@@ -172,6 +178,9 @@ Samu Ferragut, Javi Barrientos-->
             <duration>
             3.47
             </duration>
+            <mediaType>
+            2
+            </mediaType>
         </track>
         <track id="4">
             <name>
@@ -183,6 +192,9 @@ Samu Ferragut, Javi Barrientos-->
             <duration>
             3.51
             </duration>
+            <mediaType>
+            3
+            </mediaType>
         </track>
     </tracks>
     <genres>
@@ -207,6 +219,23 @@ Samu Ferragut, Javi Barrientos-->
             </name>
         </genre>
     </genres>
+    <mediaTypes>
+        <mediaType id="1">
+            <name>
+            mp3
+            </name>
+        </mediaType>
+        <mediaType id="2">
+            <name>
+            mp4
+            </name>
+        </mediaType>
+        <mediaTypeid="3">
+            <name>
+            wmv
+            </name>
+        </mediaType>
+    </mediaTypes>
     <playlists>
         <playlist>
             <name>
