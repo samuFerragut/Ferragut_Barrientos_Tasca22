@@ -6,273 +6,273 @@ Samu Ferragut, Javi Barrientos-->
     <artists>
         <artist id="1">
             <name>
-            architects
+                architects
             </name>
             <members>
                 <name>
-                Dan Searle
+                    Dan Searle
                 </name>
                 <name>
-                Alex Dean
+                    Alex Dean
                 </name>
                 <name>
-                Sam Carter
+                    Sam Carter
                 </name>
                 <name>
-                Adam Christianson
+                    Adam Christianson
                 </name>
                 <name>
-                Josh Middleton
+                    Josh Middleton
                 </name>
             </members>
             <creationData>
-            2004
+                2004
             </creationData>
             <genre>
-            1
+                1
             </genre>
         </artist>
         <artist id="2">
             <name>
-            Walls
+                Walls
             </name>
             <members>
                 <name>
-                Ginés Paredes
+                    Ginés Paredes
                 </name>
             </members>
             <creationData>
-            2016
+                2016
             </creationData>
             <genre>
-            2
+                2
             </genre>
         </artist>
-            <artist id="3">
+        <artist id="3">
             <name>
-            Bring Me The Horizon
+                Bring Me The Horizon
             </name>
             <members>
                 <name>
-                Oliver Sykes
+                    Oliver Sykes
                 </name>
                 <name>
-                Matt Kean
+                    Matt Kean
                 </name>
                 <name>
-                Lee Malia
+                    Lee Malia
                 </name>
                 <name>
-                Matt Nicholls
+                    Matt Nicholls
                 </name>
                 <name>
-                Jordan Fish
+                    Jordan Fish
                 </name>
             </members>
             <creationData>
-            2003
+                2003
             </creationData>
             <genre>
-            3
+                3
             </genre>
         </artist>
         <artist id="4">
             <name>
-            Bad Bunny
+                Bad Bunny
             </name>
             <members>
                 <name>
-                Benito Antonio Martínez Ocasio
+                    Benito Antonio Martínez Ocasio
                 </name>
             </members>
             <creationData>
-            2014
+                2014
             </creationData>
             <genre>
-            4
+                4
             </genre>
         </artist>
     </artists>
     <albums>
         <album id="1">
             <name>
-            Holy Hell
+                Holy Hell
             </name>
             <artist>
-            1
+                1
             </artist>
             <creationYear>
-            2018
+                2018
             </creationYear>
         </album>
         <album id="2">
             <name>
-            Mentiras y azar
+                Mentiras y azar
             </name>
             <artist>
-            2
+                2
             </artist>
             <creationYear>
-            2019
+                2019
             </creationYear>
         </album>
         <album id="3">
             <name>
-            Shempiternal
+                Shempiternal
             </name>
             <artist>
-            3
+                3
             </artist>
             <creationYear>
-            2013
+                2013
             </creationYear>
         </album>
         <album id="4">
             <name>
-            TrapXFicante
+                TrapXFicante
             </name>
             <artist>
-            4
+                4
             </artist>
             <creationYear>
-            2017
+                2017
             </creationYear>
         </album>
     </albums>
     <tracks>
         <track id="1">
             <name>
-            Modern Misery
+                Modern Misery
             </name>
             <album>
-            1
+                1
             </album>
             <duration>
-            4.13
+                4.13
             </duration>
             <mediaType>
-            1
+                1
             </mediaType>
         </track>
         <track id="2">
             <name>
-            Mentiras y azar
+                Mentiras y azar
             </name>
             <album>
-            2
+                2
             </album>
             <duration>
-            3.37
+                3.37
             </duration>
             <mediaType>
-            1
+                1
             </mediaType>
         </track>
         <track id="3">
             <name>
-            Shadow Moses
+                Shadow Moses
             </name>
             <album>
-            3
+                3
             </album>
             <duration>
-            3.47
+                3.47
             </duration>
             <mediaType>
-            2
+                2
             </mediaType>
         </track>
         <track id="4">
             <name>
-            Krippy Kush
+                Krippy Kush
             </name>
             <album>
-            4
+                4
             </album>
             <duration>
-            3.51
+                3.51
             </duration>
             <mediaType>
-            3
+                3
             </mediaType>
         </track>
     </tracks>
     <genres>
         <genre id="1">
             <name>
-            Metal
+                Metal
             </name>
         </genre>
         <genre id="2">
             <name>
-            Rap
+                Rap
             </name>
         </genre>
         <genre id="3">
             <name>
-            Metalcore
+                Metalcore
             </name>
         </genre>
         <genre id="4">
             <name>
-            Trap
+                Trap
             </name>
         </genre>
     </genres>
     <mediaTypes>
         <mediaType id="1">
             <name>
-            mp3
+                mp3
             </name>
         </mediaType>
         <mediaType id="2">
             <name>
-            mp4
+                mp4
             </name>
         </mediaType>
-        <mediaTypeid="3">
+        <mediaType id="3">
             <name>
-            wmv
+                wmv
             </name>
         </mediaType>
     </mediaTypes>
     <playlists>
         <playlist>
             <name>
-            Estudiar
+                Estudiar
             </name>
             <track>
-            2
+                2
             </track>
         </playlist>
         <playlist>
             <name>
-            Juernes
+                Juernes
             </name>
             <track>
-            2
+                2
             </track>
             <track>
-            4
+                4
             </track>
         </playlist>
         <playlist>
             <name>
-            Heavy
+                Heavy
             </name>
             <track>
-            1
+                1
             </track>
             <track>
-            3
+                3
             </track>
         </playlist>
         <playlist>
             <name>
-            Tranquileo
+                Tranquileo
             </name>
             <track>
-            2
+                2
             </track>
         </playlist>
     </playlists>
