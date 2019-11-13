@@ -4,11 +4,11 @@ Tasca 3.1 Creació d'un fitxer XSD pel projecte VLC
 Samu Ferragut, Javi Barrientos-->
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
     <xs:element name="songs">
-    <!--Es de tipo complejo porque tiene bastantes elementos dentro de este
+        <!--Es de tipo complejo porque tiene bastantes elementos dentro de este
     No hay ningún tipo simple porque consideramos que todos los elementos tienen que tener bastante información-->
         <xs:complexType>
             <xs:sequence>
-            <!--Es una sequence porque es una secuencia de el elemento songs-->
+                <!--Es una sequence porque es una secuencia de el elemento songs-->
                 <xs:element name="artists">
                     <xs:complexType>
                         <xs:sequence>

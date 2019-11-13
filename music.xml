@@ -2,278 +2,280 @@
 <!--LLenguatge de Marques
 Tasca 2.2 Creació d'un fitxer XML pel projecte VLC
 Samu Ferragut, Javi Barrientos-->
-<songs>
-    <artists>
-        <artist id="1">
-            <name>
+<music xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <songs>
+        <artists>
+            <artist id="1">
+                <name>
                 architects
             </name>
-            <members>
-                <name>
+                <members>
+                    <name>
                     Dan Searle
                 </name>
-                <name>
+                    <name>
                     Alex Dean
                 </name>
-                <name>
+                    <name>
                     Sam Carter
                 </name>
-                <name>
+                    <name>
                     Adam Christianson
                 </name>
-                <name>
+                    <name>
                     Josh Middleton
                 </name>
-            </members>
-            <creationData>
+                </members>
+                <creationData>
                 2004
             </creationData>
-            <genre>
+                <genre>
                 1
             </genre>
-        </artist>
-        <artist id="2">
-            <name>
+            </artist>
+            <artist id="2">
+                <name>
                 Walls
             </name>
-            <members>
-                <name>
+                <members>
+                    <name>
                     Ginés Paredes
                 </name>
-            </members>
-            <creationData>
+                </members>
+                <creationData>
                 2016
             </creationData>
-            <genre>
+                <genre>
                 2
             </genre>
-        </artist>
-        <artist id="3">
-            <name>
+            </artist>
+            <artist id="3">
+                <name>
                 Bring Me The Horizon
             </name>
-            <members>
-                <name>
+                <members>
+                    <name>
                     Oliver Sykes
                 </name>
-                <name>
+                    <name>
                     Matt Kean
                 </name>
-                <name>
+                    <name>
                     Lee Malia
                 </name>
-                <name>
+                    <name>
                     Matt Nicholls
                 </name>
-                <name>
+                    <name>
                     Jordan Fish
                 </name>
-            </members>
-            <creationData>
+                </members>
+                <creationData>
                 2003
             </creationData>
-            <genre>
+                <genre>
                 3
             </genre>
-        </artist>
-        <artist id="4">
-            <name>
+            </artist>
+            <artist id="4">
+                <name>
                 Bad Bunny
             </name>
-            <members>
-                <name>
+                <members>
+                    <name>
                     Benito Antonio Martínez Ocasio
                 </name>
-            </members>
-            <creationData>
+                </members>
+                <creationData>
                 2014
             </creationData>
-            <genre>
+                <genre>
                 4
             </genre>
-        </artist>
-    </artists>
-    <albums>
-        <album id="1">
-            <name>
+            </artist>
+        </artists>
+        <albums>
+            <album id="1">
+                <name>
                 Holy Hell
             </name>
-            <artist>
+                <artist>
                 1
             </artist>
-            <creationYear>
+                <creationYear>
                 2018
             </creationYear>
-        </album>
-        <album id="2">
-            <name>
+            </album>
+            <album id="2">
+                <name>
                 Mentiras y azar
             </name>
-            <artist>
+                <artist>
                 2
             </artist>
-            <creationYear>
+                <creationYear>
                 2019
             </creationYear>
-        </album>
-        <album id="3">
-            <name>
+            </album>
+            <album id="3">
+                <name>
                 Shempiternal
             </name>
-            <artist>
+                <artist>
                 3
             </artist>
-            <creationYear>
+                <creationYear>
                 2013
             </creationYear>
-        </album>
-        <album id="4">
-            <name>
+            </album>
+            <album id="4">
+                <name>
                 TrapXFicante
             </name>
-            <artist>
+                <artist>
                 4
             </artist>
-            <creationYear>
+                <creationYear>
                 2017
             </creationYear>
-        </album>
-    </albums>
-    <tracks>
-        <track id="1">
-            <name>
+            </album>
+        </albums>
+        <tracks>
+            <track id="1">
+                <name>
                 Modern Misery
             </name>
-            <album>
+                <album>
                 1
             </album>
-            <duration>
+                <duration>
                 4.13
             </duration>
-            <mediaType>
+                <mediaType>
                 1
             </mediaType>
-        </track>
-        <track id="2">
-            <name>
+            </track>
+            <track id="2">
+                <name>
                 Mentiras y azar
             </name>
-            <album>
+                <album>
                 2
             </album>
-            <duration>
+                <duration>
                 3.37
             </duration>
-            <mediaType>
+                <mediaType>
                 1
             </mediaType>
-        </track>
-        <track id="3">
-            <name>
+            </track>
+            <track id="3">
+                <name>
                 Shadow Moses
             </name>
-            <album>
+                <album>
                 3
             </album>
-            <duration>
+                <duration>
                 3.47
             </duration>
-            <mediaType>
+                <mediaType>
                 2
             </mediaType>
-        </track>
-        <track id="4">
-            <name>
+            </track>
+            <track id="4">
+                <name>
                 Krippy Kush
             </name>
-            <album>
+                <album>
                 4
             </album>
-            <duration>
+                <duration>
                 3.51
             </duration>
-            <mediaType>
+                <mediaType>
                 3
             </mediaType>
-        </track>
-    </tracks>
-    <genres>
-        <genre id="1">
-            <name>
+            </track>
+        </tracks>
+        <genres>
+            <genre id="1">
+                <name>
                 Metal
             </name>
-        </genre>
-        <genre id="2">
-            <name>
+            </genre>
+            <genre id="2">
+                <name>
                 Rap
             </name>
-        </genre>
-        <genre id="3">
-            <name>
+            </genre>
+            <genre id="3">
+                <name>
                 Metalcore
             </name>
-        </genre>
-        <genre id="4">
-            <name>
+            </genre>
+            <genre id="4">
+                <name>
                 Trap
             </name>
-        </genre>
-    </genres>
-    <mediaTypes>
-        <mediaType id="1">
-            <name>
+            </genre>
+        </genres>
+        <mediaTypes>
+            <mediaType id="1">
+                <name>
                 mp3
             </name>
-        </mediaType>
-        <mediaType id="2">
-            <name>
+            </mediaType>
+            <mediaType id="2">
+                <name>
                 mp4
             </name>
-        </mediaType>
-        <mediaType id="3">
-            <name>
+            </mediaType>
+            <mediaType id="3">
+                <name>
                 wmv
             </name>
-        </mediaType>
-    </mediaTypes>
-    <playlists>
-        <playlist>
-            <name>
+            </mediaType>
+        </mediaTypes>
+        <playlists>
+            <playlist>
+                <name>
                 Estudiar
             </name>
-            <track>
+                <track>
                 2
             </track>
-        </playlist>
-        <playlist>
-            <name>
+            </playlist>
+            <playlist>
+                <name>
                 Juernes
             </name>
-            <track>
+                <track>
                 2
             </track>
-            <track>
+                <track>
                 4
             </track>
-        </playlist>
-        <playlist>
-            <name>
+            </playlist>
+            <playlist>
+                <name>
                 Heavy
             </name>
-            <track>
+                <track>
                 1
             </track>
-            <track>
+                <track>
                 3
             </track>
-        </playlist>
-        <playlist>
-            <name>
+            </playlist>
+            <playlist>
+                <name>
                 Tranquileo
             </name>
-            <track>
+                <track>
                 2
             </track>
-        </playlist>
-    </playlists>
-</songs>
+            </playlist>
+        </playlists>
+    </songs>
+</music>
